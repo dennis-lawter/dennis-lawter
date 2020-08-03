@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there, I'm Dennis Lawter aka Bytomancer
 
-<!--
-**dennis-lawter/dennis-lawter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+- 😄 Pronouns: He/him
 - 🔭 I’m currently working on ...
+  - [Bits of Info][https://bitsofinfo.bytomancer.com/mockup/], a tabletop role playing assistant.
+  - [Kana][https://kana.bytomancer.com/], under wraps atm...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - Python
+  - Django
+- 🥅 Current goals:
+  - Build a portfolio
+  - Create some small free web apps
+  - Get back to game development
+
+### Contact Info
+
+[Portfolio][https://www.dennislawter.me/]
+[Email][mailto:dennis.lawter@gmail.com]
+
+[☕ Support me on Ko-fi!][http://ko-fi.com/bytomancer]
