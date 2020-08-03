@@ -15,7 +15,8 @@
 ### Contact Info
 
 - [Portfolio](https://www.dennislawter.me/)
-- [Email](mailto:dennis.lawter@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/dennislawter/)
+- [dennis.lawter@gmail.com](mailto:dennis.lawter@gmail.com)
 
 ***
 
