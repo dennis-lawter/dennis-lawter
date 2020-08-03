@@ -14,7 +14,9 @@
 
 ### Contact Info
 
-[Portfolio](https://www.dennislawter.me/)
-[Email](mailto:dennis.lawter@gmail.com)
+- [Portfolio](https://www.dennislawter.me/)
+- [Email](mailto:dennis.lawter@gmail.com)
+
+***
 
 [☕ Support me on Ko-fi!](http://ko-fi.com/bytomancer)
