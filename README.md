@@ -1,22 +1,15 @@
 ### Hi there, I'm Dennis Lawter aka Bytomancer
 
 - 😄 Pronouns: He/him
-- 🔭 I’m currently working on ...
-  - [Bits of Info](https://bitsofinfo.bytomancer.com/mockup/), a tabletop role playing assistant.
-  - [Kana](https://kana.bytomancer.com/), under wraps atm...
-- 🌱 I’m currently learning ...
-  - Python
-  - Django
-- 🥅 Current goals ...
-  - Build a portfolio
-  - Create some small free web apps
-  - Get back to game development
+- 🔭 I’m currently preparing for Ludum Dare #51
+- 🌱 I’m currently learning the Godot engine and Drogon C++ Web Framework
+- 🥅 I'd like to brush up on my game development and finish some abandoned projects
 
 ### Contact Info
 
 - [Portfolio](https://www.dennislawter.me/)
 - [LinkedIn](https://www.linkedin.com/in/dennislawter/)
-- [dennis.lawter@gmail.com](mailto:dennis.lawter@gmail.com)
+- [bytomancer@gmail.com](mailto:bytomancer@gmail.com)
 
 ***
 
