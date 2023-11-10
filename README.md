@@ -1,16 +1,20 @@
-### Hi there, I'm Dennis Lawter aka Bytomancer
+### Hi there, I'm Dennis Lawter
 
-- 😄 Pronouns: He/him
-- 🔭 I’m currently preparing for Ludum Dare #51
-- 🌱 I’m currently learning the Godot engine and Drogon C++ Web Framework
-- 🥅 I'd like to brush up on my game development and finish some abandoned projects
+- 😄 Pronouns: He/him.
+- 🔭 Working On: A raspberry pi pico powered virtual pet
+- 🌱 Learning: Rust, Godot, and Blender
+- 🥅 Goals: Spend more time on game development and get a product to market
+- ⚡ Fun Fact: I run a 42U server rack in my basement closet 😅
 
 ### Contact Info
 
+- [Email](mailto:dennis.lawter@gmail.com)
 - [Portfolio](https://www.dennislawter.me/)
 - [LinkedIn](https://www.linkedin.com/in/dennislawter/)
 - [bytomancer@gmail.com](mailto:bytomancer@gmail.com)
 
-***
+### Game Development
 
-[☕ Support me on Ko-fi!](http://ko-fi.com/bytomancer)
+Follow my game development journey!
+
+[BitonicSoft's itch.io page](https://bitonicsoft.itch.io/)
