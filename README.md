@@ -1,7 +1,7 @@
 ### Hi there, I'm Dennis Lawter
 
 - 😄 Pronouns: He/him.
-- 🔭 Working On: A raspberry pi pico powered virtual pet
+- 🔭 Working On: A raspberry pi pico powered virtual pet; An indie game about a drone delivering packages
 - 🌱 Learning: Rust, Godot, and Blender
 - 🥅 Goals: Spend more time on game development and get a product to market
 - ⚡ Fun Fact: I run a 42U server rack in my basement closet 😅
@@ -11,7 +11,6 @@
 - [Email](mailto:dennis.lawter@gmail.com)
 - [Portfolio](https://www.dennislawter.me/)
 - [LinkedIn](https://www.linkedin.com/in/dennislawter/)
-- [bytomancer@gmail.com](mailto:bytomancer@gmail.com)
 
 ### Game Development
 
